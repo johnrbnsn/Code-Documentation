@@ -20,6 +20,10 @@ Terminal
 
 Show terminal with required environment or location, this will help the user to know when virtual envs are activated/ deactivated, and if/when a certain user/host is required. the pwd parameter shows what the current directory being used is. Note that not all parameters have to be shown all the time, just when it contributes to the understanding. 
 
-Example::
+Terminal Example::
 
     ({env}) {user}@{host}:{pwd}$ 
+    
+Python Prompt Example::
+
+    >>> a = 5
